@@ -34,14 +34,14 @@
 
 },
   "my_data":[
-  {"title":"title1 ser","desc":"description1 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title2 ser","desc":"description2 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title3 ser","desc":"description3 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title4 ser","desc":"description4 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title5 ser","desc":"description5 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title6 ser","desc":"description6 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title7 ser","desc":"description7 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title8 ser","desc":"description8 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"title":"how to use this app 1","desc":"The Philippines (PHL) is a country in Southeast Asia that is home to over 100 million people. It is a rapidly developing country with a growing economy and a thriving tech industry.","photo":"https://iili.io/HvdPux2.webp"},
+  {"title":"helper mod 2","desc":". In recent years, the country has seen an explosion in mobile app development, ","photo":"https://iili.io/HvdPlHb.jpg"},
+  {"title":"advice pack 3","desc":" with many talented developers creating innovative apps that are making life easier and more convenient for Filipinos. In this article, we will take a closer look at the Philippines PHL application and how it is helping Filipinos.","photo":"https://iili.io/HvdPAVS.jpg"},
+  {"title":"tips mod 4","desc":"The PHL app is a mobile application developed by the Philippine government to provide a one-stop-shop for government services.","photo":"https://iili.io/HvdP0Rj.jpg"},
+  {"title":"advance pack 5","desc":"The app is part of the government's efforts to digitize its services and make them more accessible to Filipinos. The app was launched in 2020, and since then, it has become one of the most popular apps in the Philippines.","photo":"https://iili.io/HvdPRi7.jpg"},
+  {"title":"tips mod 6","desc":"The app is a component of the government's initiatives to digitize its services and improve Filipinos' access to them. Since its release in 2020, the app has grown to become one of the most used ones in the Philippines.","photo":"https://iili.io/HvdPYle.jpg"},
+  {"title":"helper pack 7","desc":"One of the key features of the PHL app is its ability to provide Filipinos with easy access to government services. With the app, users can access a range of services, including applying for passports, renewing driver's licenses,","photo":"https://iili.io/HvdP7f9.jpg"},
+  {"title":"how to use this app 8","desc":"paying taxes, and more. The app also provides information on government programs, services, and initiatives, making it easier for Filipinos to stay informed about what is happening in their country.","photo":"https://iili.io/HvdPaUu.webp"}
 
    ]
  
